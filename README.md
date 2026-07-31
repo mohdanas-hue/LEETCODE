@@ -47,4 +47,5 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
+| [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
 <!---LeetCode Topics End-->
