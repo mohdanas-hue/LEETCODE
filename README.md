@@ -8,6 +8,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/mohdanas-hue/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
