@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -58,6 +59,7 @@
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -91,6 +93,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
