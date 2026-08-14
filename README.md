@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
 ## Stack
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +117,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
