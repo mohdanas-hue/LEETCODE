@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -31,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
@@ -168,4 +170,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0226-invert-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
