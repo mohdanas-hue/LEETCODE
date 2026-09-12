@@ -16,6 +16,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3169-count-days-without-meetings](https://github.com/mohdanas-hue/LEETCODE/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/mohdanas-hue/LEETCODE/tree/master/3169-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
