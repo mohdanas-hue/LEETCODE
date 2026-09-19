@@ -14,6 +14,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/mohdanas-hue/LEETCODE/tree/master/0986-interval-list-intersections) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohdanas-hue/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
@@ -94,6 +95,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -169,6 +171,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,4 +233,12 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
