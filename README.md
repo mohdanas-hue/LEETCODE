@@ -173,6 +173,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/mohdanas-hue/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -193,6 +194,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdanas-hue/LEETCODE/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -211,6 +213,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/mohdanas-hue/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -255,6 +258,7 @@
 | [0098-validate-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohdanas-hue/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdanas-hue/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
