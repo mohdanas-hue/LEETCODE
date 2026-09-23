@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohdanas-hue/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -115,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohdanas-hue/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -264,6 +266,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohdanas-hue/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
