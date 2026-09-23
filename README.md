@@ -47,6 +47,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
@@ -105,6 +107,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/mohdanas-hue/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
