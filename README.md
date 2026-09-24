@@ -23,6 +23,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3169-count-days-without-meetings](https://github.com/mohdanas-hue/LEETCODE/tree/master/3169-count-days-without-meetings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
 | ------- |
