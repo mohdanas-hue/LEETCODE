@@ -70,6 +70,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -108,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0143-reorder-list) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -305,4 +308,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
