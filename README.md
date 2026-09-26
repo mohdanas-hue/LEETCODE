@@ -19,6 +19,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohdanas-hue/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -76,6 +77,7 @@
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hue/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mohdanas-hue/LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -97,6 +99,7 @@
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
