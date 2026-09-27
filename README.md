@@ -16,6 +16,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/mohdanas-hue/LEETCODE/tree/master/0986-interval-list-intersections) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/mohdanas-hue/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohdanas-hue/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/mohdanas-hue/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Rolling Hash
@@ -191,6 +193,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/mohdanas-hue/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
