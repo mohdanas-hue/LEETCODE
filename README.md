@@ -119,6 +119,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -209,6 +210,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -231,6 +233,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdanas-hue/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -325,4 +328,16 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
