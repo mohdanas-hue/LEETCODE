@@ -80,6 +80,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hue/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mohdanas-hue/LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -126,6 +127,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -335,6 +337,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
