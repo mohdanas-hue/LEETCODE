@@ -67,6 +67,7 @@
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mohdanas-hue/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/mohdanas-hue/LEETCODE/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
