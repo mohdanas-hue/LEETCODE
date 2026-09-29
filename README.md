@@ -75,6 +75,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
@@ -118,6 +119,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -338,6 +340,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
