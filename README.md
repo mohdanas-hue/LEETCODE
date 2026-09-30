@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/mohdanas-hue/LEETCODE/tree/master/0986-interval-list-intersections) |
@@ -129,6 +130,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+| [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hue/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
