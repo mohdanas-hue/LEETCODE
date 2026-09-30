@@ -71,6 +71,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/mohdanas-hue/LEETCODE/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0206-reverse-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +340,7 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Manacher
 |  |
 | ------- |
