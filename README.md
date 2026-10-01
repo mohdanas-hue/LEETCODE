@@ -136,6 +136,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -345,6 +346,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Manacher
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+| [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -384,4 +387,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
