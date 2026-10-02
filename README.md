@@ -138,6 +138,7 @@
 | [0143-reorder-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/mohdanas-hue/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -383,6 +384,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mohdanas-hue/LEETCODE/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
