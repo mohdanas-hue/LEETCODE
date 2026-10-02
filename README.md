@@ -24,6 +24,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/mohdanas-hue/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hue/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -143,6 +144,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/mohdanas-hue/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -348,6 +350,7 @@
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/mohdanas-hue/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Manacher
 |  |
