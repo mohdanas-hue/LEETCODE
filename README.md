@@ -81,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mohdanas-hue/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -312,6 +314,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/mohdanas-hue/LEETCODE/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mohdanas-hue/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -363,6 +366,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
