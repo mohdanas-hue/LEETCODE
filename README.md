@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mohdanas-hue/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0143-reorder-list) |
@@ -347,6 +349,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -394,4 +397,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mohdanas-hue/LEETCODE/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
