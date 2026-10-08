@@ -25,6 +25,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohdanas-hue/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohdanas-hue/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
@@ -129,6 +130,7 @@
 | [0002-add-two-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -171,6 +173,7 @@
 | [0206-reverse-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/mohdanas-hue/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Iterator
 |  |
 | ------- |
@@ -416,6 +420,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
