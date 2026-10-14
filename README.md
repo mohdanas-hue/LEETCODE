@@ -100,6 +100,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mohdanas-hue/LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Math
 |  |
 | ------- |
@@ -436,4 +438,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
 <!---LeetCode Topics End-->
