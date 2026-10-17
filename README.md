@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohdanas-hue/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/mohdanas-hue/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -86,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mohdanas-hue/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/mohdanas-hue/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/mohdanas-hue/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
@@ -454,4 +456,8 @@
 |  |
 | ------- |
 | [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohdanas-hue/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
