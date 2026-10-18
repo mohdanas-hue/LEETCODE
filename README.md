@@ -32,6 +32,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hue/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [3169-count-days-without-meetings](https://github.com/mohdanas-hue/LEETCODE/tree/master/3169-count-days-without-meetings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -108,6 +109,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mohdanas-hue/LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Math
@@ -208,6 +211,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -458,6 +462,7 @@
 ## Counting
 |  |
 | ------- |
+| [2506-count-pairs-of-similar-strings](https://github.com/mohdanas-hue/LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [3692-majority-frequency-characters](https://github.com/mohdanas-hue/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Trie
 |  |
