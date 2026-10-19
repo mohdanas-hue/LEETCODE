@@ -55,6 +55,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/mohdanas-hue/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohdanas-hue/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mohdanas-hue/LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@
 | [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/mohdanas-hue/LEETCODE/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -494,4 +496,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
