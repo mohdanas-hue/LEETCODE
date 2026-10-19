@@ -29,6 +29,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mohdanas-hue/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohdanas-hue/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hue/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohdanas-hue/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -61,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohdanas-hue/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3169-count-days-without-meetings](https://github.com/mohdanas-hue/LEETCODE/tree/master/3169-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
@@ -208,6 +210,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hue/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohdanas-hue/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
