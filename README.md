@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohdanas-hue/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hue/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/mohdanas-hue/LEETCODE/tree/master/0986-interval-list-intersections) |
@@ -155,6 +156,7 @@
 | [0013-roman-to-integer](https://github.com/mohdanas-hue/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/mohdanas-hue/LEETCODE/tree/master/2235-add-two-integers) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
@@ -265,6 +267,7 @@
 | [0085-maximal-rectangle](https://github.com/mohdanas-hue/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/mohdanas-hue/LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdanas-hue/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hue/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -479,4 +482,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohdanas-hue/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
