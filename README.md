@@ -37,6 +37,7 @@
 | [3169-count-days-without-meetings](https://github.com/mohdanas-hue/LEETCODE/tree/master/3169-count-days-without-meetings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohdanas-hue/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [2235-add-two-integers](https://github.com/mohdanas-hue/LEETCODE/tree/master/2235-add-two-integers) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
