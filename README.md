@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
@@ -63,6 +64,7 @@
 | [0056-merge-intervals](https://github.com/mohdanas-hue/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hue/LEETCODE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hue/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohdanas-hue/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -158,6 +160,7 @@
 | [0013-roman-to-integer](https://github.com/mohdanas-hue/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohdanas-hue/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/mohdanas-hue/LEETCODE/tree/master/2235-add-two-integers) |
