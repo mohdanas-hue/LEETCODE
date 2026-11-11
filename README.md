@@ -124,6 +124,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohdanas-hue/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mohdanas-hue/LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mohdanas-hue/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [3516-find-closest-person](https://github.com/mohdanas-hue/LEETCODE/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdanas-hue/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mohdanas-hue/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohdanas-hue/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
