@@ -107,6 +107,7 @@
 | [0020-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/mohdanas-hue/LEETCODE/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/mohdanas-hue/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mohdanas-hue/LEETCODE/tree/master/0242-valid-anagram) |
@@ -287,6 +288,7 @@
 | [0022-generate-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohdanas-hue/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/mohdanas-hue/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/mohdanas-hue/LEETCODE/tree/master/0091-decode-ways) |
 | [0509-fibonacci-number](https://github.com/mohdanas-hue/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mohdanas-hue/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/mohdanas-hue/LEETCODE/tree/master/0877-stone-game) |
